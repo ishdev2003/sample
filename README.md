@@ -1,5 +1,5 @@
 # sample
 This is my 1st GitHub repository.
 <br>
-Author: Ishwar Devale
+Author: Ishwar Devale (Developer)
 
