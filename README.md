@@ -1,2 +1,3 @@
 # sample
-This is my 1st GitHub repository
+This is my 1st GitHub repository.Author: Ishwar Devale
+
